@@ -98,7 +98,7 @@ python -m pip install pandas numpy matplotlib seaborn
 
 ### Acknowledgements
 
-my acknowledgement goes to vasi.pavaloi@codeinstitute.net & Rory Patrick sheridian for Guidance and support.
+my acknowledgement goes to Vasi Pavaloi & Rory Patrick sheridian from Code Institute for Guidance and support.
 
 ## Notes & next steps
 - The notebooks now focus on data analysis with pandas and numpy, while still capturing modeling insights.
