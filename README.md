@@ -44,9 +44,7 @@ The project is designed as an educational analysis of cardiovascular risk factor
 - Comparison of risk outcomes across clinical and lifestyle variables
 
 ## Unfixed Bugs
-- Some notebook cells rely on the working directory being set correctly for file loading.
-- Plot formatting may need minor adjustments depending on the environment or display size.
-- If the dataset is updated, some categorical assumptions may need to be reviewed.
+- No Bugs Reported.
 
 ## Development Roadmap
 - Improve notebook reproducibility and documentation.
@@ -96,7 +94,7 @@ python -m pip install pandas numpy matplotlib seaborn
 3. Open and run `analysis_predict_hypotheses.ipynb` or `etl_bmi_family_analysis.ipynb` in VS Code/Jupyter to view analysis and visualizations.
 
 ## Credits
-- The credits goes to code Institute staff for their support and learning guidance and resources provided for achieving this knowledge for demonstarting data analysis project.
+- The credits goes to code Institute staff for their support and learning guidance and resources provided for achieving this knowledge for demonstarting data analysis project. Online sites also made the project developement easy. the sites include https://www.kaggle.com/datasets, https://github.com/, Applications and extentions also helped for easy working like VSCode IDE, extensions like  data wrangler, Pylance, Python debugger, jupiter and more.
 
 ### Acknowledgements
 
